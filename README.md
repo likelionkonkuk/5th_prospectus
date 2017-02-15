@@ -21,7 +21,8 @@
 
 ###우대 및 권장사항 (비전공자에 한하여)
 - HTML&CSS에 대한 이해가 있으면 좋습니다.:+1:
-- 만약 위에 대한 지식이 없다면, **[Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud304)**, **[Codecademy](https://www.codecademy.com/learn/web)** 등에서(택1) HTML&CSS 교육을 이수하면 좋습니다. (<u>1주 분량</u>입니다. :kissing_face:)
+- 만약 위에 대한 지식이 없다면, **[Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud304)**, **[Codecademy](https://www.codecademy.com/learn/web)** 등에서(택1) HTML&CSS 교육을 이수하면 좋습니다.
+	(<u>1주 분량</u>입니다. :kissing_heart:)
 - 지원서 작성시 첨부파일로 이수사실에 대한 증명을 남겨주세요.(스크린샷 가능)
 
 
